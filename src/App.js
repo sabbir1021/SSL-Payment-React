@@ -1,8 +1,6 @@
 import "./App.css";
-import { useState } from "react";
 import { Routes, Route } from "react-router-dom"
 import Home from "./Home";
-import Status from "./StatusSuccess";
 import StatusSuccess from "./StatusSuccess";
 import StatusCancel from "./StatusCancel";
 import StatusFailed from "./StatusFailed";
